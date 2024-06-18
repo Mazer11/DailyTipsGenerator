@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DailyTipsGenerator</string>
+    <string name="action_go">Go</string>
+    <string name="title">Daily Tips Generator</string>
+    <string name="label_prompt">Enter your today\'s first thoughts</string>
+</resources>
